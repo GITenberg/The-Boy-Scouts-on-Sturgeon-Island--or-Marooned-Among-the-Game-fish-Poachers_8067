@@ -1,0 +1,24 @@
+_repo: The-Boy-Scouts-on-Sturgeon-Island--or-Marooned-Among-the-Game-fish-Poachers_8067
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Herbert
+    gutenberg_agent_id: '2624'
+    url: http://www.gutenberg.org/2009/agents/2624
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Lakes Region (North America) -- Juvenile fiction'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Boy Scouts on Sturgeon Island; or, Marooned Among the Game-fish Poachers
+url: http://www.gutenberg.org/ebooks/8067
